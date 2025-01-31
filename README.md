@@ -1,4 +1,5 @@
 1.	Project Overview
+   
 1.1.	Objective
 Our project is to create an Inventory Management System for a clothing store. The system will help manage inventory, sales, and supplier information easily. We plan to create a user-friendly interface by using object-oriented programming to make inventory tracking more efficient.
 
